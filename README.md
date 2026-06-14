@@ -24,7 +24,7 @@ This project is an interactive, end-to-end Information Retrieval (IR) system bui
 This application is deployed on the web and requires **no installation**. 
 
 1. **Open the App:** Click this link to open the application in any modern web browser (Chrome, Safari, Edge, etc.): 
-   👉 **[Insert Your Streamlit Public URL Here]**
+   👉 **https://ir-assignment-81.streamlit.app/**
 2. **Upload Data:** On the main screen, click the "Browse files" button and upload your dataset consisting of standard `.txt` files. You can upload multiple files at once.
 3. **Reset:** If you want to test a different dataset, click the "🗑️ Reset & Clear All Datasets" button in the left sidebar to wipe the system memory before uploading new files.
 
